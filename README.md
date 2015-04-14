@@ -1,4 +1,4 @@
 # DominionSim
 DominionSim
 
-v.0.2.2.2-beta
+v.0.2.3.0-beta
